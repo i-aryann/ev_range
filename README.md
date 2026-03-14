@@ -230,4 +230,4 @@ Machine Learning + Energy Optimization Study
 
 ## ⭐ License
 
-Open for academic and educational use.
+Open for academic and educational use
